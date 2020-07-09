@@ -1,1 +1,3 @@
 dodanie pliku test.txt
+
+zmiany bezposrednio na githubie
